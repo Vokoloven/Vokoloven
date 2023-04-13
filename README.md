@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Hey%20Everyone!&animation=fadeIn)
-<h1>Let's stay in connection!</h1>
+<h1 align='center'>Let's stay in connection!</h1>
 
 <!--
 **Vokoloven/Vokoloven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
