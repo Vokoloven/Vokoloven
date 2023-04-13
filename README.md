@@ -72,18 +72,7 @@ hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun"]
 <img alt="github-snake" src="https://github.com/Vokoloven/Vokoloven/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 ---
-<!-- <img height="50" width="50" src="" alt=""/>-->
-<!--
-**Vokoloven/Vokoloven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...!
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...!
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Hello!&animation=fadeIn&section=footer"/>
+<h1>Let's stay in connection!💬</h1>
+</div>
