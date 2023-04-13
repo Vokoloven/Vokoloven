@@ -5,16 +5,16 @@
 
 <div align='center'>
 <a href="https://www.linkedin.com/in/vokoloven/">
-  <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231769385-7dcc8bdf-c422-4f69-962c-76dd1e027cd6.png"/>
+  <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231769385-7dcc8bdf-c422-4f69-962c-76dd1e027cd6.png" alt="linkedin"/>
 </a>
 <a href="https://www.facebook.com/ruslan.volovenko/">
-  <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231770930-bb7ce785-2858-40e0-b798-994ab60b8f20.png"/>
+  <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231770930-bb7ce785-2858-40e0-b798-994ab60b8f20.png" alt="facebook"/>
 </a>
   <a href="https://t.me/vokoloven">
-  <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231772072-62d14c21-7797-4957-a8c6-e76bb805cd98.png"/>
+  <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231772072-62d14c21-7797-4957-a8c6-e76bb805cd98.png" alt="telegram"/>
 </a>
     <a href="https://www.instagram.com/vokoloven/">
-  <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231772749-03e95ab0-d564-46c3-be53-da252beb2ee1.png"/>
+  <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231772749-03e95ab0-d564-46c3-be53-da252beb2ee1.png" alt="instagram"/>
 </a>
 </div>
 <div align='center'>
@@ -22,7 +22,7 @@
 </div>
 
 ---
-<h2>👩‍💻 &nbsp;  Little Bit About Me</h2>
+<h2>👩‍💻 &nbsp;Little Bit About Me</h2>
 
 ```yaml
 name: Volovenko Ruslan
@@ -44,6 +44,8 @@ currently_learning: ["NextJs && Redux Saga"]
 
 hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun"]
 ```
+---
+<h2>⚡ &nbsp; Some Tools I Have Learned and Used</h2>
 
 <!--
 **Vokoloven/Vokoloven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
