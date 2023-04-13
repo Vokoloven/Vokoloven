@@ -15,8 +15,9 @@
   <img height="50" src="https://user-images.githubusercontent.com/48805990/231772749-03e95ab0-d564-46c3-be53-da252beb2ee1.png"/>
 </a>
 </div>
-
-![gva8f](https://user-images.githubusercontent.com/48805990/231774886-7046bdaa-f7a7-478f-bb05-66202cf75ab4.gif)
+<div align='center'>
+  <img src="https://user-images.githubusercontent.com/48805990/231774886-7046bdaa-f7a7-478f-bb05-66202cf75ab4.gif"/>
+</div>
 
 
 <!--
