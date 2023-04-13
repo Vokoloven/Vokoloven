@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Hellow%Everyone!&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Hello%Everyone!&animation=fadeIn)
 
 <!--
 **Vokoloven/Vokoloven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
