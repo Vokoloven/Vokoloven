@@ -26,7 +26,11 @@
 
 ```yaml
 name: Volovenko Ruslan
-
+located_in: Kyiv, Ukraine
+current_job: in active search
+education: [
+'Specialist of Navigation & Engineering'
+]
 
 
 ```
