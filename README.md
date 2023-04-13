@@ -59,7 +59,7 @@ hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun"]
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231808453-d4d7ec5b-ed46-41eb-8508-5fa0901eb1e1.svg" alt="nextjs"/>
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231808929-35681450-9b5e-4e5c-b544-9f0915280c94.svg" alt="redux"/>
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231809131-104475db-1a6f-4c46-8211-d3e2f34abf72.svg" alt="redux-saga"/>
-<img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231809831-43735fb2-c1f9-4052-bf1c-98d1d1fd8993.svg" alt="styled-components"/>
+<img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231810493-ded6f82b-0402-45a4-98a8-915db04f8637.svg" alt="styled-components"/>
 <img height="50" width="50" src="" alt=""/>
 <img height="50" width="50" src="" alt=""/>
 <img height="50" width="50" src="" alt=""/>
@@ -68,10 +68,6 @@ hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun"]
 <img height="50" width="50" src="" alt=""/>
   
   
-
-
-
-![redux-saga]()![styled-components-1]()
 
 
 
