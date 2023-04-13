@@ -48,11 +48,26 @@ hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun"]
 <h2>⚡ &nbsp; Some Tools I Have Learned and Used</h2>
 
 <div align="left">
+ <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231803323-a14030f6-1b89-42c8-b18d-abbfdcde1a60.png" alt="vscode"/>
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231800613-4481a052-f57d-4731-aa42-45be962ccf61.png" alt="html5"/>
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231801114-05079da5-b7c5-42f7-adb4-7fe2f5bd9105.png" alt="css3"/>
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231801965-91a977c9-b894-4b7c-b675-510117cfdc13.png" alt="js"/>
+<img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231802370-8ba31a44-1c96-4a22-86c9-ffe69ccc280f.png" alt="reactjs"/>
+<img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231802509-9b05e4ee-7361-438a-876c-89564118d7ad.png" alt="nodejs"/>
+<img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231804869-d23a8156-d407-47a5-b720-ee14668f41c6.svg" alt="expo"/>
+<img height="50" width="50" src="" alt=""/>
+<img height="50" width="50" src="" alt=""/>
+<img height="50" width="50" src="" alt=""/>
+<img height="50" width="50" src="" alt=""/>
+<img height="50" width="50" src="" alt=""/>
+<img height="50" width="50" src="" alt=""/>
   
-</div>
+
+
+
+
+<div/>
+
 
 
 <!--
