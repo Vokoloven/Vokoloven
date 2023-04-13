@@ -21,11 +21,6 @@
   <img src="https://user-images.githubusercontent.com/48805990/231774886-7046bdaa-f7a7-478f-bb05-66202cf75ab4.gif" alt="demon-slayer"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vokoloven/Vokoloven/blob/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github-snake" src="https://github.com/Vokoloven/Vokoloven/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
 ---
 <h2>👩‍💻 &nbsp;Little Bit About Me</h2>
 
@@ -69,6 +64,11 @@ hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun"]
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231811307-fd4a0286-3614-4994-a247-f2cd9003a35e.svg" alt="mui"/>
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231811758-67d5e50c-e2fe-4f87-be04-ac07d9297037.svg" alt="npm"/>
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231814336-960dab1b-54d5-4bc0-9bf8-1ce3e463fd8c.svg" alt="bootstrap"/>
+  
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vokoloven/Vokoloven/blob/output/github-contribution-grid-snake-dark.svg" />
+<img alt="github-snake" src="https://github.com/Vokoloven/Vokoloven/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 <!-- <img height="50" width="50" src="" alt=""/>-->
 <!--
