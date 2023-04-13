@@ -58,13 +58,14 @@ hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun"]
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231807026-706bd32c-4c04-43f0-83d8-492a13c7ffa8.svg" alt="expo"/>
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231808453-d4d7ec5b-ed46-41eb-8508-5fa0901eb1e1.svg" alt="nextjs"/>
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231808929-35681450-9b5e-4e5c-b544-9f0915280c94.svg" alt="redux"/>
-<img height="50" width="50" src="" alt=""/>
+<img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231809131-104475db-1a6f-4c46-8211-d3e2f34abf72.svg" alt="redux-saga"/>
 <img height="50" width="50" src="" alt=""/>
 <img height="50" width="50" src="" alt=""/>
   
 
 
 
+![redux-saga]()
 
 
 
