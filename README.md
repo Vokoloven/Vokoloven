@@ -57,6 +57,7 @@ hobbies: [
 
 <div align="left">
 <img height="50" src="https://user-images.githubusercontent.com/48805990/231803323-a14030f6-1b89-42c8-b18d-abbfdcde1a60.png" alt="vscode"/>
+<img height="50" src="https://user-images.githubusercontent.com/48805990/231846581-9d07049a-7418-4d87-bc44-b60076ce74ef.png" alt="figma"/> 
 <img height="50" src="https://user-images.githubusercontent.com/48805990/231800613-4481a052-f57d-4731-aa42-45be962ccf61.png" alt="html5"/>
 <img height="50" src="https://user-images.githubusercontent.com/48805990/231801114-05079da5-b7c5-42f7-adb4-7fe2f5bd9105.png" alt="css3"/>
 <img height="50" src="https://user-images.githubusercontent.com/48805990/231812391-d7d1c072-9049-4777-a8ee-738fdc2e68f0.svg" alt="sass"/>
@@ -70,10 +71,9 @@ hobbies: [
 <img height="50" src="https://user-images.githubusercontent.com/48805990/231809131-104475db-1a6f-4c46-8211-d3e2f34abf72.svg" alt="redux-saga"/>
 <img height="70" src="https://user-images.githubusercontent.com/48805990/231810493-ded6f82b-0402-45a4-98a8-915db04f8637.svg" alt="styled-components"/>
 <img height="50" src="https://user-images.githubusercontent.com/48805990/231811307-fd4a0286-3614-4994-a247-f2cd9003a35e.svg" alt="mui"/>
+<img height="50" src="https://user-images.githubusercontent.com/48805990/231814336-960dab1b-54d5-4bc0-9bf8-1ce3e463fd8c.svg" alt="bootstrap"/>  
 <img height="50" src="https://user-images.githubusercontent.com/48805990/231811758-67d5e50c-e2fe-4f87-be04-ac07d9297037.svg" alt="npm"/>
-<img height="50" src="https://user-images.githubusercontent.com/48805990/231814336-960dab1b-54d5-4bc0-9bf8-1ce3e463fd8c.svg" alt="bootstrap"/>
-<img height="50" src="https://user-images.githubusercontent.com/48805990/231846581-9d07049a-7418-4d87-bc44-b60076ce74ef.png" alt="figma"/>
- </div> 
+</div> 
 <!---<img height="50" width="50" src="" alt=""/>--->
   
 ---  
