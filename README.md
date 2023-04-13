@@ -1,9 +1,9 @@
-<div align='center'>
-<img src='https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Hello!&animation=fadeIn&section=header'/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Hello!&animation=fadeIn&section=header"/>
 <h1>Let's stay in connection!💬</h1>
 </div>
 
-<div align='center'>
+<div align="center">
 <a href="https://www.linkedin.com/in/vokoloven/">
   <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231769385-7dcc8bdf-c422-4f69-962c-76dd1e027cd6.png" alt="linkedin"/>
 </a>
@@ -17,8 +17,8 @@
   <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231772749-03e95ab0-d564-46c3-be53-da252beb2ee1.png" alt="instagram"/>
 </a>
 </div>
-<div align='center'>
-  <img src="https://user-images.githubusercontent.com/48805990/231774886-7046bdaa-f7a7-478f-bb05-66202cf75ab4.gif"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/48805990/231774886-7046bdaa-f7a7-478f-bb05-66202cf75ab4.gif" alt="demon-slayer"/>
 </div>
 
 ---
@@ -46,6 +46,13 @@ hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun"]
 ```
 ---
 <h2>⚡ &nbsp; Some Tools I Have Learned and Used</h2>
+
+<div align="left">
+<img src="https://user-images.githubusercontent.com/48805990/231800613-4481a052-f57d-4731-aa42-45be962ccf61.png" alt="html5"/>
+
+
+
+</div>
 
 <!--
 **Vokoloven/Vokoloven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
