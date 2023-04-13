@@ -11,7 +11,11 @@
   <a href="https://t.me/vokoloven">
   <img height="50" src="https://user-images.githubusercontent.com/48805990/231772072-62d14c21-7797-4957-a8c6-e76bb805cd98.png"/>
 </a>
+    <a href="https://www.instagram.com/vokoloven/">
+  <img height="50" src="https://user-images.githubusercontent.com/48805990/231772749-03e95ab0-d564-46c3-be53-da252beb2ee1.png"/>
+</a>
 </div>
+
 
 
 
