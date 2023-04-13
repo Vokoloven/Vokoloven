@@ -48,7 +48,7 @@ hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun"]
 <h2>⚡ &nbsp; Some Tools I Have Learned and Used</h2>
 
 <div align="left">
-<img src="https://user-images.githubusercontent.com/48805990/231800613-4481a052-f57d-4731-aa42-45be962ccf61.png" alt="html5"/>
+<img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231800613-4481a052-f57d-4731-aa42-45be962ccf61.png" alt="html5"/>
 
 
 
