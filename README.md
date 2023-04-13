@@ -28,11 +28,21 @@
 name: Volovenko Ruslan
 located_in: Kyiv, Ukraine
 current_job: in active search
+
 education: [
-'Specialist of Navigation & Engineering'
+"Specialist of Navigation & Engineering",
+"Fullstack Developer"
 ]
 
+fields_of_interests: [
+"Web Development",
+"Mobile Development",
+"DevOps",
+]
 
+currently_learning: ["NextJs && Redux Saga"]
+
+hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun"]
 ```
 
 <!--
