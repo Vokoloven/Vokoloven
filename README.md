@@ -70,6 +70,7 @@ hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun"]
 
 <div/>
 
+![expo](https://user-images.githubusercontent.com/48805990/231806316-abb9de41-2707-4a71-8e07-b7d7da45177a.png)
 
 
 <!--
