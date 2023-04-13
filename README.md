@@ -22,7 +22,7 @@
 </div>
 
 ---
-<h2>👩‍💻 &nbsp;Little Bit About Me</h2>
+<h2>👩‍💻&nbsp;Little Bit About Me</h2>
 
 ```yaml
 name: Volovenko Ruslan
@@ -45,7 +45,7 @@ currently_learning: ["NextJs && Redux Saga"]
 hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun", "Rock Music"]
 ```
 ---
-<h2>⚡ &nbsp; Some Tools I Have Learned and Used</h2>
+<h2>⚡&nbsp;Some Tools I Have Learned and Used</h2>
 
 <div align="left">
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231803323-a14030f6-1b89-42c8-b18d-abbfdcde1a60.png" alt="vscode"/>
@@ -66,7 +66,7 @@ hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun", "Rock Music"]
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231814336-960dab1b-54d5-4bc0-9bf8-1ce3e463fd8c.svg" alt="bootstrap"/>
  
 ---  
-<h2>📈 &nbsp; My GitHub History!</h2>
+<h2>📈&nbsp;My GitHub History!</h2>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vokoloven/Vokoloven/blob/output/github-contribution-grid-snake-dark.svg" />
 <img alt="github-snake" src="https://github.com/Vokoloven/Vokoloven/blob/output/github-contribution-grid-snake-dark.svg" />
