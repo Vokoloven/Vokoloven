@@ -21,6 +21,12 @@
   <img src="https://user-images.githubusercontent.com/48805990/231774886-7046bdaa-f7a7-478f-bb05-66202cf75ab4.gif" alt="demon-slayer"/>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ---
 <h2>👩‍💻 &nbsp;Little Bit About Me</h2>
 
