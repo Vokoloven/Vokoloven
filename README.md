@@ -65,6 +65,7 @@ hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun"]
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231811758-67d5e50c-e2fe-4f87-be04-ac07d9297037.svg" alt="npm"/>
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231814336-960dab1b-54d5-4bc0-9bf8-1ce3e463fd8c.svg" alt="bootstrap"/>
  ---
+  
   <h2>📈 &nbsp; My GitHub History!</h2>
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vokoloven/Vokoloven/blob/output/github-contribution-grid-snake-dark.svg" />
