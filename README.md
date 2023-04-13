@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Hello!&animation=fadeIn)
+<img align='center' src='https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Hello!&animation=fadeIn'/>
 <h1 align='center'>Let's stay in connection!💬</h1>
-<img src='https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Hello!&animation=fadeIn'/>
+
 
 <div align='center'>
 <a href="https://www.linkedin.com/in/vokoloven/">
