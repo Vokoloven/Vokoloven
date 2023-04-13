@@ -49,10 +49,11 @@ hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun"]
 
 <div align="left">
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231800613-4481a052-f57d-4731-aa42-45be962ccf61.png" alt="html5"/>
-
-
-
+<img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231801114-05079da5-b7c5-42f7-adb4-7fe2f5bd9105.png" alt="css3"/>
+<img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231801965-91a977c9-b894-4b7c-b675-510117cfdc13.png" alt="js"/>
+  
 </div>
+
 
 <!--
 **Vokoloven/Vokoloven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
