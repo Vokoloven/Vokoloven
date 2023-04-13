@@ -52,11 +52,11 @@ hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun"]
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231800613-4481a052-f57d-4731-aa42-45be962ccf61.png" alt="html5"/>
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231801114-05079da5-b7c5-42f7-adb4-7fe2f5bd9105.png" alt="css3"/>
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231801965-91a977c9-b894-4b7c-b675-510117cfdc13.png" alt="js"/>
-<img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231806607-e76da199-d8c0-44b3-8382-c758ef1e3489.png" alt="typescript"/>
+<img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231807096-666ef688-fec1-49f8-861d-e2df228235a8.svg" alt="typescript"/>
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231802370-8ba31a44-1c96-4a22-86c9-ffe69ccc280f.png" alt="reactjs"/>
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231802509-9b05e4ee-7361-438a-876c-89564118d7ad.png" alt="nodejs"/>
-<img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231805148-7f35b59b-adf3-4df7-8024-99220e12fed5.svg" alt="expo"/>
-<img height="50" width="50" src="" alt=""/>
+<img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231807026-706bd32c-4c04-43f0-83d8-492a13c7ffa8.svg" alt="expo"/>
+<img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231808453-d4d7ec5b-ed46-41eb-8508-5fa0901eb1e1.svg" alt="nextjs"/>
 <img height="50" width="50" src="" alt=""/>
 <img height="50" width="50" src="" alt=""/>
 <img height="50" width="50" src="" alt=""/>
