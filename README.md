@@ -48,10 +48,10 @@ hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun"]
 <h2>⚡ &nbsp; Some Tools I Have Learned and Used</h2>
 
 <div align="left">
- <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231803323-a14030f6-1b89-42c8-b18d-abbfdcde1a60.png" alt="vscode"/>
+<img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231803323-a14030f6-1b89-42c8-b18d-abbfdcde1a60.png" alt="vscode"/>
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231800613-4481a052-f57d-4731-aa42-45be962ccf61.png" alt="html5"/>
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231801114-05079da5-b7c5-42f7-adb4-7fe2f5bd9105.png" alt="css3"/>
-  <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231812391-d7d1c072-9049-4777-a8ee-738fdc2e68f0.svg" alt="sass"/>
+<img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231812391-d7d1c072-9049-4777-a8ee-738fdc2e68f0.svg" alt="sass"/>
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231813232-84230f45-4165-46c2-958e-b85f9d259b31.png" alt="js"/>
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231807096-666ef688-fec1-49f8-861d-e2df228235a8.svg" alt="typescript"/>
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231802370-8ba31a44-1c96-4a22-86c9-ffe69ccc280f.png" alt="reactjs"/>
@@ -63,7 +63,7 @@ hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun"]
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231810493-ded6f82b-0402-45a4-98a8-915db04f8637.svg" alt="styled-components"/>
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231811307-fd4a0286-3614-4994-a247-f2cd9003a35e.svg" alt="mui"/>
 <img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231811758-67d5e50c-e2fe-4f87-be04-ac07d9297037.svg" alt="npm"/>
-<img height="50" width="50" src="" alt=""/>
+<img height="50" width="50" src="https://user-images.githubusercontent.com/48805990/231814336-960dab1b-54d5-4bc0-9bf8-1ce3e463fd8c.svg" alt="bootstrap"/>
 <img height="50" width="50" src="" alt=""/>
 <img height="50" width="50" src="" alt=""/>  
 <div/>
@@ -72,6 +72,7 @@ hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun"]
 ![javascript]()
 ![4373213_js_logo_logos_icon]()
 
+![bootstrap-color]()
 
 <!--
 **Vokoloven/Vokoloven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
