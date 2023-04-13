@@ -42,7 +42,7 @@ fields_of_interests: [
 
 currently_learning: ["NextJs && Redux Saga"]
 
-hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun"]
+hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun", "Rock Music"]
 ```
 ---
 <h2>⚡ &nbsp; Some Tools I Have Learned and Used</h2>
