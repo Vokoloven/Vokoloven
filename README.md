@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Hey%20Everyone!&animation=fadeIn)
 <h1 align='center'>Let's stay in connection!💬</h1>
 
-<a href="https://www.instagram.com/vokoloven/">
+<a href="https://www.linkedin.com/in/vokoloven/">
   <img height="50" src="https://user-images.githubusercontent.com/48805990/231769385-7dcc8bdf-c422-4f69-962c-76dd1e027cd6.png"/>
 </a>
 
