@@ -71,8 +71,8 @@ hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun"]
 <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vokoloven/Vokoloven/blob/output/github-contribution-grid-snake-dark.svg" />
 <img alt="github-snake" src="https://github.com/Vokoloven/Vokoloven/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
----
+  
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Hello!&animation=fadeIn&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&animation=fadeIn&section=footer"/>
 <h1>Let's stay in connection!💬</h1>
 </div>
