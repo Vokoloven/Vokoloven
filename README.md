@@ -74,5 +74,4 @@ hobbies: ["Gaming", "Cinema", "Street Walking", "Cat's Fun"]
   
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&animation=fadeIn&section=footer"/>
-<h1>Let's stay in connection!💬</h1>
 </div>
