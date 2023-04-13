@@ -25,9 +25,9 @@
 <h2>👩‍💻&nbsp;Little Bit About Me</h2>
 
 ```yaml
-name: Volovenko Ruslan
-located_in: Kyiv, Ukraine
-current_job: in active search
+name: "Volovenko Ruslan"
+located_in: "Kyiv, Ukraine"
+current_job: "In Active Search"
 
 education: [
 "Specialist of Navigation & Engineering",
