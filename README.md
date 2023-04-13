@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Hey%20Everyone!&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Hello!&animation=fadeIn)
 <h1 align='center'>Let's stay in connection!💬</h1>
 
 <div align='center'>
