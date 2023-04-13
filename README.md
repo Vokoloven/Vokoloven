@@ -40,7 +40,9 @@ fields_of_interests: [
 "DevOps"
 ]
 
-currently_learning: ["NextJs && Redux Saga"]
+currently_learning: [
+"NextJs && Redux Saga"
+]
 
 hobbies: [
 "Gaming", 
