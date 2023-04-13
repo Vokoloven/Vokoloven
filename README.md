@@ -4,6 +4,7 @@
 <a href="https://www.instagram.com/vokoloven/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png](https://user-images.githubusercontent.com/48805990/231769385-7dcc8bdf-c422-4f69-962c-76dd1e027cd6.png)"/>
 </a>
+  [1727490_linkedin_social media_job_network_icon](https://user-images.githubusercontent.com/48805990/231769385-7dcc8bdf-c422-4f69-962c-76dd1e027cd6.png)
 
 <!--
 **Vokoloven/Vokoloven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
