@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Hi%There!&animation=fadeIn&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=Hi%%There!&animation=fadeIn&section=header"/>
 <h1>Let's stay in connection!💬</h1>
 </div>
 
