@@ -74,6 +74,7 @@ hobbies: [
 <img height="50" src="https://user-images.githubusercontent.com/48805990/231814336-960dab1b-54d5-4bc0-9bf8-1ce3e463fd8c.svg" alt="bootstrap"/>  
 <img height="50" src="https://user-images.githubusercontent.com/48805990/231811758-67d5e50c-e2fe-4f87-be04-ac07d9297037.svg" alt="npm"/>
 <img height="50" src="https://github.com/Vokoloven/Vokoloven/assets/48805990/ee22dde6-e418-4f81-9683-c73033814440" alt="vite"/>
+<img height="50" src="https://github.com/Vokoloven/Vokoloven/assets/48805990/086f0644-7a9d-48f6-b60a-37323d1868c2" alt="tailwindcss"/>
 </div> 
 <!---<img height="50" width="50" src="" alt=""/>--->
   
