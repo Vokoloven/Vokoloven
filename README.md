@@ -22,6 +22,14 @@
 </div>
 
 ---
+<h2>📈&nbsp;My GitHub History!</h2>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vokoloven/Vokoloven/blob/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/Vokoloven/Vokoloven/blob/output/github-contribution-grid-snake.svg" />
+<img alt="github-snake" src="https://github.com/Vokoloven/Vokoloven/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
 <h2>👩‍💻&nbsp;Little Bit About Me</h2>
 
 ```yaml
@@ -77,14 +85,6 @@ hobbies: [
 <img height="50" src="https://github.com/Vokoloven/Vokoloven/assets/48805990/ee22dde6-e418-4f81-9683-c73033814440" alt="vite"/>
 </div> 
 <!---<img height="50" width="50" src="" alt=""/>--->
-  
----  
-<h2>📈&nbsp;My GitHub History!</h2>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vokoloven/Vokoloven/blob/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/Vokoloven/Vokoloven/blob/output/github-contribution-grid-snake.svg" />
-<img alt="github-snake" src="https://github.com/Vokoloven/Vokoloven/blob/output/github-contribution-grid-snake.svg" />
-</picture>
   
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&animation=fadeIn&section=footer"/>
