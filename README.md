@@ -34,7 +34,7 @@
 
 ```yaml
 name: "Volovenko Ruslan"
-locatedIn: "Kyiv, Ukraine"
+location: "Kyiv, Ukraine"
 topSkills: ["React", "JavaScript", "TypeScript", "RxJS", "Next.js"]
 ```
 ---
