@@ -38,7 +38,7 @@ location: "Kyiv, Ukraine",
 topSkills: ["React", "JavaScript", "TypeScript", "RxJS", "Next.js"]
 ```
 ---
-<h2>⚡&nbsp;Some Tools I Have Learned and Used</h2>
+<h2>⚡&nbsp;My Tools</h2>
 
 <div align="left">
 <img height="50" src="https://user-images.githubusercontent.com/48805990/231803323-a14030f6-1b89-42c8-b18d-abbfdcde1a60.png" alt="vscode"/>
