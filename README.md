@@ -33,8 +33,8 @@
 <h2>👩‍💻&nbsp;Little Bit About Me</h2>
 
 ```yaml
-name: "Volovenko Ruslan"
-location: "Kyiv, Ukraine"
+name: "Volovenko Ruslan",
+location: "Kyiv, Ukraine",
 topSkills: ["React", "JavaScript", "TypeScript", "RxJS", "Next.js"]
 ```
 ---
